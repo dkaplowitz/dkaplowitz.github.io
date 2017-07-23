@@ -1,4 +1,4 @@
 title: David Kaplowitz's Blog
-theme: minima
+theme: jekyll-theme-modernist
 exclude:
   - Gemfile
