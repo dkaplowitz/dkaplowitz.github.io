@@ -17,5 +17,5 @@ for a little bit that I saw something on [their
 site](https://jekyllrb.com/docs/github-pages/) about
 > GitHub Pages overrides the “Site Source” configuration value, so if you locate your files anywhere other than the root directory, your site may not build correctly.
 
-So welcome to another blog. We'll see if the new format inspires something
+Anyway, I don't have much more to say on this warm, rainy day in NYC. So welcome to (yet) another blog. We'll see if the new format inspires something
 remotely interesting/useful to the world.
