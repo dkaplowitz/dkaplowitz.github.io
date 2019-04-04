@@ -2,3 +2,4 @@ title: dkaplowitz.github.io
 theme: minima
 exclude:
   - Gemfile
+  - vendor
